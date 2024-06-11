@@ -1,0 +1,171 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+.header-main
+{
+    margin-top: 70px;
+    margin-left: 60px;
+}
+.fa-pen-to-square
+{
+    font-size: 25px;
+}
+.fun
+{
+    border-radius: 50%;
+    margin-top: 7px;
+    margin-left: 5px;
+}
+.hudson
+{
+    margin: 30px;
+    display: flex;
+    background-color: rgb(249, 248, 248);
+    height:80px;
+    width: 350px;
+    border-radius: 8px;
+}
+.huds
+{
+    margin: 30px;
+    display: flex;
+    height:80px;
+    width: 350px;
+    border-radius: 8px;
+}
+.son
+{
+    margin-left: 8px;
+    margin-top: 7px;
+}
+p
+{
+    margin-left: 8px;
+    margin-top: 5px;   
+}
+.fa-3   
+{
+    background-color: rgb(61, 61, 232);
+    color: azure;
+    border-radius: 50%;
+    height: 20px;
+    width: 20px;
+    padding: 6px;
+    margin-left: 40px;
+    padding-bottom: 3px;
+    font-size: 10px;
+}
+.header-main
+{
+    margin-top: 50px;
+}
+.all-main-div
+{
+    display:flex;
+    background-color:#fffbfb ;
+    width: 1440px;
+    border-radius: 6px;
+}
+/* .second-section-main
+{
+    height: 700px;
+    width: 700px;
+    border: solid 1px black;
+} */
+.online
+{
+    color: rgb(113, 113, 255);
+}
+.for-text
+{
+    border: solid 1px #ffffff;
+    height: 35px;
+    width: 160px;
+    border-radius: 6px;
+    padding-left:3px;
+    margin-left: 20px;
+    padding-top:3px;
+    color: #ffffff;
+    background-color: #53ABE7;
+}
+.text-main
+{
+    margin-left: 400px;
+    display: flex;
+    align-items: center;
+}
+.for-img
+{
+    margin-top:6px;
+}
+.text-mai
+{
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+}
+.for-tex
+{
+    border: solid 1px #ffffff;
+    height: 35px; 
+    width: 160px;
+    border-radius: 6px;
+    padding-left: 3px;
+    padding-top: 3px;
+    color: #070707;
+    background-color: #ffffff;    
+}
+.nu
+{
+    margin-left: 559px;
+}
+.u
+{
+    margin-left: 55px;
+}
+.for-tet
+{
+    border: solid 1px #ffffff;
+    height: 35px;
+    width: 230px;
+    border-radius: 6px;
+    padding-left: 3px;
+    padding-top: 3px;
+    color: #ffffff;
+    background-color: #53ABE7;
+}
+.tet-main
+{
+    margin-left: 356px;
+    display: flex;
+    align-items: center;
+    margin-right: 20px;
+}
+.uuu
+{
+    margin-left: 572px; 
+}
+.or
+{
+    margin-left: 10px;
+}
+.online
+{
+    margin-left: 10px;
+}
+.fa-3   
+{
+    background-color: rgb(61, 61, 232);
+    color: azure;
+    border-radius: 50%;
+    height: 20px;
+    width: 20px;
+    padding: 6px;
+    margin-left: 40px;
+    padding-bottom: 3px;
+    font-size: 10px;
+}
